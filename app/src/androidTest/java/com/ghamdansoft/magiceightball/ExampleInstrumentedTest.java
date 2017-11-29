@@ -1,4 +1,4 @@
-package com.londonappbrewery.magiceightball;
+package com.ghamdansoft.magiceightball;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
